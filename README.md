@@ -2,6 +2,10 @@
 
 This tutorial will guide you through the first steps to using Google Cloud Shell and its code editor. 
 
+Get Started now and open this tutorial in Cloud Shell
+
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https%3A%2F%2Fgithub.com%2Faubort%2Fgoogle-cloud-shell-tutorial&page=shell&tutorial=README.md)
+
 ## Setup
 
 Open Google Cloud Shell and take some time to set it up with common aliases
